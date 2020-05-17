@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mobile-app-ws
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sumit
+Implementation-Vendor-Id: com.sergey.restandsecurity
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootRestApi
+Created-By: Maven Integration for Eclipse
+
